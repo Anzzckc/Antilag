@@ -1,5 +1,4 @@
 -- IY's original code
--- ===== ANTILAG CHUẨN IY 100% (GIỮ NGUYÊN BIẾN) =====
 local RunService = game:GetService("RunService")
 local Lighting = game:GetService("Lighting")
 
